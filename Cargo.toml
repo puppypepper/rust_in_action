@@ -37,5 +37,9 @@ path = "src/list2-10.rs"
 name = "list2-11"
 path = "src/list2-11.rs"
 
+[[bin]]
+name = "list2-12"
+path = "src/list2-12.rs"
+
 [dependencies]
 num = "0.4.3"

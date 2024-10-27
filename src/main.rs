@@ -8,7 +8,6 @@ fn main() {
     let e = add(add(a, b), add(c, d));
 
     println!("{}", e);
-
 }
 
 fn add(x: i32, y: i32) -> i32 {
