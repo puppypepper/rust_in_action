@@ -1,0 +1,15 @@
+[package]
+name = "grep-lite"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "list2-23"
+path = "src/list2-23.rs"
+
+[[bin]]
+name = "list2-24"
+path = "src/list2-24.rs"
+
+[dependencies]
+regex = "1"
