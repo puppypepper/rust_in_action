@@ -11,5 +11,14 @@ path = "src/list2-23.rs"
 name = "list2-24"
 path = "src/list2-24.rs"
 
+[[bin]]
+name = "list2-26"
+path = "src/list2-26.rs"
+
+[[bin]]
+name = "list2-27"
+path = "src/list2-27.rs"
+
 [dependencies]
+clap = "2"
 regex = "1"
