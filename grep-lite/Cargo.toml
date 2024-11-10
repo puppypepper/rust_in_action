@@ -24,8 +24,8 @@ name = "list2-28"
 path = "src/list2-28.rs"
 
 [[bin]]
-name = "list2-29"
-path = "src/list2-29.rs"
+name = "list2-30"
+path = "src/list2-30.rs"
 
 [dependencies]
 clap = "2"
