@@ -4,6 +4,11 @@ struct File {
     data: Vec<u8>,
 }
 
+struct Sample {
+    data: String,
+    data2: String,
+}
+
 fn main() {
     let mut f1 = File {
         name: String::from("f1.txt"),
@@ -32,4 +37,17 @@ fn main() {
         let f1_data = &f1.data;
         println!("{:?}", f1_data);
     }
+
+    let x = Sample {
+        data: String::from("hello"),
+        data2: String::from("world"),
+    };
+    let y = &x.data;
+    let z = &(x.data);
+    // let w = (&x).data;
+    let v = x.data;
+    // let u = x.data;
+    // let a = x;
+    let t = x.data2;
+    // let b = x;
 }
