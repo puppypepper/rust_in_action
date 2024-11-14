@@ -17,9 +17,19 @@ fn main() {
     println!("{:?}", f1_name);
     println!("{:?}", f1_length);
 
+    {
+        let f1_data = &f1.data;
+        println!("{:?}", f1_data);
+    }
+
     f1.data = vec![114, 117, 115, 116];
 
     println!("{:?}", f1);
     println!("{:?}", f1_name);
     println!("{:?}", f1_length);
+
+    {
+        let f1_data = &f1.data;
+        println!("{:?}", f1_data);
+    }
 }
