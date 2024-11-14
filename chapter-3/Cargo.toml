@@ -3,6 +3,12 @@ name = "chapter-3"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[[bin]]
+name = "list3-1"
+path = "src/list3-1.rs"
+
+[[bin]]
+name = "list3-2"
+path = "src/list3-2.rs"
 
 [dependencies]
