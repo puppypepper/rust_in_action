@@ -15,4 +15,12 @@ path = "src/list3-2.rs"
 name = "list3-3"
 path = "src/list3-3.rs"
 
+[[bin]]
+name = "list3-4"
+path = "src/list3-4.rs"
+
+[[bin]]
+name = "list3-5"
+path = "src/list3-5.rs"
+
 [dependencies]
