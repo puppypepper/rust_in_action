@@ -23,4 +23,8 @@ path = "src/list3-4.rs"
 name = "list3-5"
 path = "src/list3-5.rs"
 
+[[bin]]
+name = "vec_clone"
+path = "src/vec_clone.rs"
+
 [dependencies]
