@@ -36,6 +36,22 @@ name = "list3-10"
 path = "src/list3-10.rs"
 
 [[bin]]
+name = "list3-11"
+path = "src/list3-11.rs"
+
+[[bin]]
+name = "list3-12"
+path = "src/list3-12.rs"
+
+[[bin]]
+name = "list3-13"
+path = "src/list3-13.rs"
+
+[[bin]]
+name = "list3-16"
+path = "src/list3-16.rs"
+
+[[bin]]
 name = "vec_clone"
 path = "src/vec_clone.rs"
 
