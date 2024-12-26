@@ -1,0 +1,22 @@
+[package]
+name = "chapter-4"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "list4-1"
+path = "src/list4-1.rs"
+
+[[bin]]
+name = "list4-2"
+path = "src/list4-2.rs"
+
+[[bin]]
+name = "list4-5"
+path = "src/list4-5.rs"
+
+[[bin]]
+name = "list4-6"
+path = "src/list4-6.rs"
+
+[dependencies]

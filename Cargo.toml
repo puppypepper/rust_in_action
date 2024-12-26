@@ -1,5 +1,5 @@
 [workspace]
-members = [ "chapter-3","grep-lite"]
+members = [ "chapter-3", "chapter-4","grep-lite"]
 
 [package]
 name = "rust_in_action"
