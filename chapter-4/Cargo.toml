@@ -27,4 +27,8 @@ path = "src/list4-18.rs"
 name = "list4-19"
 path = "src/list4-19.rs"
 
+[[bin]]
+name = "list4-20"
+path = "src/list4-20.rs"
+
 [dependencies]
