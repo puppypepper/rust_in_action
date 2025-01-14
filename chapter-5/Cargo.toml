@@ -1,0 +1,31 @@
+[package]
+name = "chapter-5"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "list5-1"
+path = "src/list5-1.rs"
+
+[[bin]]
+name = "list5-2"
+path = "src/list5-2.rs"
+
+[[bin]]
+name = "list5-3"
+path = "src/list5-3.rs"
+
+[[bin]]
+name = "list5-5"
+path = "src/list5-5.rs"
+
+[[bin]]
+name = "list5-6"
+path = "src/list5-6.rs"
+
+[[bin]]
+name = "list5-7"
+path = "src/list5-7.rs"
+
+[dependencies]
+
