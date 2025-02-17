@@ -39,5 +39,9 @@ path = "src/chip-8.rs"
 name = "list5-22"
 path = "src/list5-22.rs"
 
+[[bin]]
+name = "list5-26"
+path = "src/list5-26.rs"
+
 [dependencies]
 
