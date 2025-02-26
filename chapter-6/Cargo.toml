@@ -11,4 +11,20 @@ path = "src/list6-1.rs"
 name = "list6-2"
 path = "src/list6-2.rs"
 
+[[bin]]
+name = "list6-4"
+path = "src/list6-4.rs"
+
+[[bin]]
+name = "list6-5"
+path = "src/list6-5.rs"
+
+[[bin]]
+name = "list6-6"
+path = "src/list6-6.rs"
+
+[[bin]]
+name = "list6-7"
+path = "src/list6-7.rs"
+
 [dependencies]
