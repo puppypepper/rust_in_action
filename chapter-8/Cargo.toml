@@ -1,0 +1,11 @@
+[package]
+name = "chapter-8"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "list8-2"
+path = "src/list8-2.rs"
+
+[dependencies]
+reqwest="0.9"
