@@ -27,4 +27,11 @@ path = "src/list6-6.rs"
 name = "list6-7"
 path = "src/list6-7.rs"
 
+[[bin]]
+name = "list6-9"
+path = "src/list6-9.rs"
+
 [dependencies]
+piston_window = "0.117"
+piston2d-graphics = "0.39"
+rand = "0.8"
